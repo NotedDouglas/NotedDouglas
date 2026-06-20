@@ -2,7 +2,7 @@
 
 **`Engenheiro De Software`**
 
-Me chamo José Douglas Pimentel Rodrigues, tenho 28 anos e resido na cidade de Varginha - MG. Atualmente, estou cursando Engenharia de Software pela universidade internacional Uninter. Tenho interesse por tecnologia e compartilho meu conhecimento através do meu Site Portfólio "[Portfólio](https://noteddouglas.github.io/JDouglas-Portif-lio/)", além de compartilhar conteúdo e experiências no meu perfil no LinkedIn. "[Douglas Pimentel](www.linkedin.com/in/douglas-pimentel-4058aa193)".
+Me chamo José Douglas Pimentel Rodrigues, tenho 29 anos e resido na cidade de Varginha - MG. Atualmente, estou cursando Engenharia de Software pela universidade internacional Uninter. Tenho interesse por tecnologia e compartilho meu conhecimento através do meu Site Portfólio "[Portfólio](https://noteddouglas.github.io/JDouglas-Portif-lio/)", além de compartilhar conteúdo e experiências no meu perfil no LinkedIn. "[Douglas Pimentel](www.linkedin.com/in/douglas-pimentel-4058aa193)".
 
 <p align="left">
     <a href="https://github.com/NotedDouglas?tab=repositories&sort=stargazers">
