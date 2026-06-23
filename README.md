@@ -50,7 +50,7 @@ Me chamo José Douglas Pimentel Rodrigues, tenho 29 anos e resido na cidade de V
             width= "90"
         />
     </a>
-    <a href="https://noteddouglas.github.io/JDouglas-Portif-lio/" target="_blank">
+    <a href="https://noteddouglas.github.io/Portfolio-JDouglas/" target="_blank">
         <img 
             alt="Portfólio" 
             title="Veja meu portfólio" 
